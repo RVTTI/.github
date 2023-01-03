@@ -8,7 +8,7 @@ In this repository, you will find a variety of projects and resources related to
 We welcome new members to join our tech club at any time. If you are interested in joining, please attend one of our meetings or events and introduce yourself. You can also reach out to us through our GitHub repository or by contacting one of the club organizers.
 
 ## Code of Conduct
-We are committed to creating a safe and inclusive environment for all members of our tech club. To ensure that our club is a welcoming place for everyone, we have established a Code of Conduct that outlines our expectations for behavior. Please take a moment to read through our Code of Conduct, which can be found in the ["CODE_OF_CONDUCT.md"](https://github.com/rvttiTechClub/.github/blob/main/CODE_OF_CONDUCT.md) file in this repository.
+We are committed to creating a safe and inclusive environment for all members of our tech club. To ensure that our club is a welcoming place for everyone, we have established a Code of Conduct that outlines our expectations for behavior. Please take a moment to read through our Code of Conduct, which can be found in the "[CODE_OF_CONDUCT.md](https://github.com/rvttiTechClub/.github/blob/main/CODE_OF_CONDUCT.md)" file in this repository.
 
 ## Contact
 If you have any questions, concerns, or suggestions, please don't hesitate to contact us through our GitHub repository or by reaching out to one of the club organizers. We are always happy to help and welcome feedback from our members.
