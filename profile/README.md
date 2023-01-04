@@ -1,6 +1,6 @@
 <h4>Welcome to the RVTTI Tech Club GitHub repository!</h4>
 
-We are a group of students who are passionate about technology and dedicated to exploring and learning about the latest trends and developments in the field. Our tech club is open to all students, regardless of their level of experience or technical background.
+We are a group of students in RVTTI who are passionate about technology and dedicated to exploring and learning about the latest trends and developments in the field. Our tech club is open to all students, regardless of their level of experience or technical background.
 
 In this repository, you will find a variety of projects and resources related to our tech club activities. We encourage you to browse through our projects and see the work that we are doing. If you are interested in joining our tech club or contributing to one of our projects, please don't hesitate to reach out to us.
 
